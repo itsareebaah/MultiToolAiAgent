@@ -71,7 +71,9 @@ Designed for developers, students, and teams who want a **clean, extensible star
 └─────────────────────────────────────────────────────────────────┘
 ```
 
-*Add a screenshot after your first run: save as `docs/images/ui-preview.png` and embed it here.*
+## Dashboard Screenshot
+**Web Search**
+![Dashboard](https://github.com/itsareebaah/MultiToolAiAgent/blob/db5ccc84b34328ea51f4623a5f64595e6ca92867/Screenshot%202026-05-23%20215813.png)
 
 ---
 
