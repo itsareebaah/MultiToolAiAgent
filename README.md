@@ -394,6 +394,6 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 **If this project helped you, consider giving it a star on GitHub.**
 
-Made with Python · Part of the [Nexe-Agent](https://github.com/YOUR_USERNAME) toolkit
+Developed by Areeba Ahmad
 
 </div>
